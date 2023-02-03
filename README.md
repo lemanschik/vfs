@@ -11,6 +11,9 @@ Filesystem Utilitys for AwesomeOS
 - Adaptable Filesystem Structure and Blocksizes
 - Many Processing Flows out of the Box
 - Replaces data warehouse and document servers.
+- Designed For the Next Level Of Workloads > Petrabyte via Uniqe Scaling on Demand Sync and Processing
+  - Faster AI Development at Scale with less costs.
+  - Distributed Live Programmable Versioned in Memory Grid Database. Powered by Chromium and WebRTC.
 
 
 ## Guides
